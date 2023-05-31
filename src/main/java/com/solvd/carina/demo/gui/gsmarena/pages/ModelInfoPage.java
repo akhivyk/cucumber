@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.pages;
+package com.solvd.carina.demo.gui.gsmarena.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;

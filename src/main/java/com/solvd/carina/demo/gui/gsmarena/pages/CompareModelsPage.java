@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.pages;
+package com.solvd.carina.demo.gui.gsmarena.pages;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.openqa.selenium.support.FindBy;
 
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement;
 import com.zebrunner.carina.webdriver.gui.AbstractPage;
-import com.solvd.carina.demo.gui.components.compare.CondidateBlock;
-import com.solvd.carina.demo.gui.components.compare.ModelSpecs;
+import com.solvd.carina.demo.gui.gsmarena.components.compare.CondidateBlock;
+import com.solvd.carina.demo.gui.gsmarena.components.compare.ModelSpecs;
 
 public class CompareModelsPage extends AbstractPage {
 

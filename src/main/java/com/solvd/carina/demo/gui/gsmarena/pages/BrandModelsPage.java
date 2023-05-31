@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.pages;
+package com.solvd.carina.demo.gui.gsmarena.pages;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 
 import com.zebrunner.carina.webdriver.gui.AbstractPage;
-import com.solvd.carina.demo.gui.components.ModelItem;
+import com.solvd.carina.demo.gui.gsmarena.components.ModelItem;
 
 public class BrandModelsPage extends AbstractPage {
 

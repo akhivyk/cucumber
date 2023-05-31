@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.pages;
+package com.solvd.carina.demo.gui.gsmarena.pages;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement;
 import com.zebrunner.carina.webdriver.gui.AbstractPage;
-import com.solvd.carina.demo.gui.components.NewsItem;
+import com.solvd.carina.demo.gui.gsmarena.components.NewsItem;
 
 public class NewsPage extends AbstractPage {
     

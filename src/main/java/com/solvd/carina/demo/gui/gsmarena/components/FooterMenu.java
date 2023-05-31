@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.components;
+package com.solvd.carina.demo.gui.gsmarena.components;
 
 import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;
@@ -6,9 +6,9 @@ import org.openqa.selenium.support.FindBy;
 
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement;
 import com.zebrunner.carina.webdriver.gui.AbstractUIObject;
-import com.solvd.carina.demo.gui.pages.CompareModelsPage;
-import com.solvd.carina.demo.gui.pages.HomePage;
-import com.solvd.carina.demo.gui.pages.NewsPage;
+import com.solvd.carina.demo.gui.gsmarena.pages.CompareModelsPage;
+import com.solvd.carina.demo.gui.gsmarena.pages.HomePage;
+import com.solvd.carina.demo.gui.gsmarena.pages.NewsPage;
 
 public class FooterMenu extends AbstractUIObject {
 

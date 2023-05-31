@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.components;
+package com.solvd.carina.demo.gui.gsmarena.components;
 
 import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;

@@ -8,9 +8,9 @@ import org.apache.commons.lang3.StringUtils;
 import org.testng.Assert;
 
 import com.zebrunner.carina.cucumber.CucumberRunner;
-import com.solvd.carina.demo.gui.components.NewsItem;
-import com.solvd.carina.demo.gui.pages.HomePage;
-import com.solvd.carina.demo.gui.pages.NewsPage;
+import com.solvd.carina.demo.gui.gsmarena.components.NewsItem;
+import com.solvd.carina.demo.gui.gsmarena.pages.HomePage;
+import com.solvd.carina.demo.gui.gsmarena.pages.NewsPage;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;

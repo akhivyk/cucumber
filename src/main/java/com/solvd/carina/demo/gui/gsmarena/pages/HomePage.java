@@ -1,4 +1,4 @@
-package com.solvd.carina.demo.gui.pages;
+package com.solvd.carina.demo.gui.gsmarena.pages;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
@@ -12,8 +12,8 @@ import org.slf4j.LoggerFactory;
 
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement;
 import com.zebrunner.carina.webdriver.gui.AbstractPage;
-import com.solvd.carina.demo.gui.components.FooterMenu;
-import com.solvd.carina.demo.gui.components.WeValuePrivacyAd;
+import com.solvd.carina.demo.gui.gsmarena.components.FooterMenu;
+import com.solvd.carina.demo.gui.gsmarena.components.WeValuePrivacyAd;
 
 
 public class HomePage extends AbstractPage {
