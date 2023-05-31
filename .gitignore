@@ -1,0 +1,8 @@
+# Ignored files and directories
+.idea/
+logs/
+target/
+screenshots/
+.settings
+reports
+cucumber.iml
