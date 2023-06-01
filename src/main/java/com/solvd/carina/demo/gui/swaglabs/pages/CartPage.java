@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 
 public class CartPage extends AbstractPage {
-    @FindBy(xpath = ".//button[contains(@id, 'continue-shopping')]")
+    @FindBy(xpath = ".//button[@id='continue-shopping']")
     private ExtendedWebElement continueShopping;
 
     @FindBy(xpath = "//button[@id='checkout']")
